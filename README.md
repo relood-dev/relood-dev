@@ -32,3 +32,17 @@ ThinkPad T480      ──  i7-8650U · 16 GB · 256 GB SSD · 14" FHD · MX150
 ```
 
 [![OS](https://skillicons.dev/icons?i=apple,windows,linux&theme=dark)](https://skillicons.dev)
+
+---
+
+## ⚙️・ tools
+
+```
+Proxmox  •  VMware  •  VS Code  •  Ansible  •  Claude
+```
+
+[![Tools](https://skillicons.dev/icons?i=vscode,ansible&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)

@@ -19,3 +19,12 @@ comes back is the urge to create.
 I never had the chance to learn how to code. So I use AI to help me: it lets me
 bring my ideas to life, and above all have fun doing it. But I fully intend to
 learn properly — and I have enormous respect for those who already know how.
+
+---
+
+## 💻・ My hardware
+
+```
+MacBook Air    ──  Apple M4 · 10 cores · 16 GB · Liquid Retina
+ThinkPad T480  ──  Intel Core · 16 GB · 250 GB SSD · FHD · MX150
+```

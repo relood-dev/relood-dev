@@ -1,4 +1,4 @@
-# 👤・ Relood — Systems, Networks & Future Dev
+# 👤・ Relood
 
 ```bash
 git clone relood-dev

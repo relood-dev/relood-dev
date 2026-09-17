@@ -1,5 +1,7 @@
 # 👤・ relood
 
+<img src="card.png" alt="Relood — ID card" width="460">
+
 ```bash
 git clone relood-dev
 cd relood

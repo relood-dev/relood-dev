@@ -1,7 +1,9 @@
 .venv/
 __pycache__/
 preview.html
+panel_zoom.png
+avatar.jpg
 banner.png
 lanapixel.ttf
 make_banner.py
-CREDITS.md
+make_card.py

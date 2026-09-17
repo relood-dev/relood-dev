@@ -26,5 +26,5 @@ learn properly — and I have enormous respect for those who already know how.
 
 ```
 MacBook Air    ──  Apple M4 · 10 cores · 16 GB · Liquid Retina
-ThinkPad T480  ──  Intel Core · 16 GB · 250 GB SSD · FHD · MX150
+ThinkPad T480  ──  i7-8650U · 16 GB · 256 GB SSD · 14" FHD · MX150
 ```

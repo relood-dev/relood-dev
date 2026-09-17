@@ -1,1 +1,1 @@
-<img src="card.png" alt="Relood — ID card" width="460">
+<img src="card.png" alt="Relood — ID card" width="100%">

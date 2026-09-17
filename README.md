@@ -30,3 +30,5 @@ Desktop            ──  Ryzen 7 5700X @ 4.8 GHz · RTX 3060 12 GB
 MacBook Air        ──  Apple M4 · 10 cores · 16 GB · Liquid Retina
 ThinkPad T480      ──  i7-8650U · 16 GB · 256 GB SSD · 14" FHD · MX150
 ```
+
+[![OS](https://skillicons.dev/icons?i=apple,windows,linux&theme=dark)](https://skillicons.dev)

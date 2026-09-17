@@ -3,7 +3,7 @@
 ```bash
 git clone relood-dev
 cd relood
-./launch.sh --curious --self-taught --loves-building
+./launch.sh --insane-aim --loves-building --tryharder 
 ```
 
 ---

@@ -8,7 +8,7 @@ cd relood
 
 ---
 
-## 👋 About me
+## 🔍 About me
 
 I hold a French vocational qualification as a **Systems and Network Technician**
 (TSSR — EQF level 5, equivalent to a two-year degree).

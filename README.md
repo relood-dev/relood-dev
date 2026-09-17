@@ -1,4 +1,4 @@
-# 👤・ Relood
+# 👤・ relood
 
 ```bash
 git clone relood-dev
@@ -8,7 +8,7 @@ cd relood
 
 ---
 
-## 🔍・ About me
+## 🔍・ about me
 
 I hold a French vocational qualification as a **Systems and Network Technician**
 (TSSR — EQF level 5, equivalent to a two-year degree).
@@ -22,7 +22,7 @@ learn properly — and I have enormous respect for those who already know how.
 
 ---
 
-## 💻・ My hardware
+## 💻・ hardware
 
 ```
 Desktop            ──  Ryzen 7 5700X @ 4.8 GHz · RTX 3060 12 GB

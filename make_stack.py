@@ -83,6 +83,12 @@ def make(games, out_path="stack-v1.png"):
         "",
         '    public string[] OS = { "macOS", "Windows", "Linux" };',
         "}",
+        "",
+        "public static class CONTACT",
+        "{",
+        '    public string DISCORD = "relood";',
+        '    public string  GITHUB = "relood-dev";',
+        "}",
     ]
 
     top, bot = 118, 96

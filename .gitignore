@@ -1,10 +1,5 @@
 .venv/
 __pycache__/
-preview.html
+foot.png
 panel_zoom.png
-avatar.jpg
-banner.png
-lanapixel.ttf
-make_banner.py
-make_card.py
 hdr_zoom.png

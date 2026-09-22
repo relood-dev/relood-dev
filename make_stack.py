@@ -1,4 +1,3 @@
-"""Deuxieme carte du profil : meme DA que card-v2, contenu presente comme du code."""
 from PIL import Image, ImageDraw, ImageFont
 import re
 
@@ -25,7 +24,6 @@ def _f(size):
 KEYWORDS = {"public", "class", "static", "string", "int", "bool", "void", "new", "partial"}
 
 def tokenize(line):
-    """Decoupe une ligne en (texte, couleur) -> coloration syntaxique monochrome."""
     if line.strip().startswith("//"):
         return [(line, DIM)]
     out, i = [], 0
@@ -146,7 +144,7 @@ def make(games, out_path="stack-v1.png"):
     # --- le code ---
     for row, line in enumerate(CODE):
         y = top + row * LH
-        label((L + 22, y + 4), f"{row + 1:>2}", 20, NUM, right=True)   # numeros de ligne
+        label((L + 22, y + 4), f"{row + 1:>2}", 20, NUM, right=True)
         col_x = 0
         for tok, col in tokenize(line):
             for ch in tok:

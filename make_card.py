@@ -24,7 +24,6 @@ def _f(size, path=None):
 
 
 def render(s, size, fill, track=0, font=None):
-    """Rend du texte en masque binaire, recadre au pixel pres, avec interlettrage."""
     f = _f(size, font)
     pad = size * 3
     m = Image.new("L", (len(s) * size + pad * 2, size * 3), 0)
@@ -40,7 +39,7 @@ def render(s, size, fill, track=0, font=None):
     b = m.getbbox()
     if not b:
         return None
-    m = m.crop(b)                                  # recadrage serre
+    m = m.crop(b)
     return Image.new("RGB", m.size, fill), m
 
 

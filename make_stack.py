@@ -84,7 +84,7 @@ def make(games, out_path="stack-v1.png"):
         "",
         "public static class CONTACT",
         "{",
-        '    public string DISCORD = "relood";',
+        '    public string DISCORD = "bekindorfail";',
         '    public string  GITHUB = "relood-dev";',
         "}",
     ]
